@@ -1,0 +1,15 @@
+.Vacation{
+margin: 15px;
+    cursor: pointer;
+    display: flex;
+        justify-content: center;
+}
+.Vacation:hover{
+    -webkit-box-reflect: below 20px;
+}
+ img{
+    display: flex;
+        justify-content: center;
+            
+            
+}
